@@ -5,6 +5,10 @@ public class Usuario {
 
 		private String login;
 		private String password;
+		private int edad;
+		
+		
+		
 		public String getLogin() {
 			return login;
 		}
